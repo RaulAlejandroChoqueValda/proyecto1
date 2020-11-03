@@ -1,0 +1,27 @@
+  
+  .footer {
+    background-color: #adadad;
+  }
+
+  span{
+      color: white;
+      float: right;
+  }
+  
+  .container {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+  }
+  a:link, a:visited {
+
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+   color: #0075b9;
+  }
+ 
